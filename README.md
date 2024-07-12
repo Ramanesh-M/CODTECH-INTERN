@@ -50,3 +50,5 @@ Conclusion:
 This project is a fundamental exercise in using an Arduino to control an LED. 
 It teaches the basics of setting up hardware, writing and uploading a program, and understanding how to use digital output pins. 
 This knowledge is foundational for more complex projects involving sensors, actuators, and other components.
+
+
